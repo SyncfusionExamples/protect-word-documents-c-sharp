@@ -4,13 +4,13 @@ This repository contains examples that illustrates how to protect Word document 
 
 ## Key Features
 
--   [Encrypt Word Document](https://help.syncfusion.com/document-processing/word/word-library/net/working-with-security#encrypting-with-password) - Secure documents with a password to prevent unauthorized access.
--   [Decrypt Protected Documents](https://help.syncfusion.com/document-processing/word/word-library/net/working-with-security#remove-encryption) - Remove password protection for unrestricted access.
--   [Restrict Editing Options](https://help.syncfusion.com/document-processing/word/word-library/net/working-with-security#protecting-word-document-from-editing):
-    -   Allow only form fields to be filled.
-    -   Enable only comments to be added.
-    -   Set documents to read-only for viewing purposes.
-    -   Permit revisions only, ensuring all changes are tracked.
+-   [Encrypt Word Document](https://github.com/SyncfusionExamples/protect-word-documents-c-sharp/tree/master/) - Secure documents with a password to prevent unauthorized access.
+-   [Decrypt Protected Documents](https://github.com/SyncfusionExamples/protect-word-documents-c-sharp/tree/master/) - Decrypt from encrypted Word document.
+-   **Restrict Editing Options:**
+    -   [Allow only form fields](https://github.com/SyncfusionExamples/protect-word-documents-c-sharp/tree/master/Allow-only-form-fields) - Allows users to fill in specific fields only.
+    -   [Allow only comments](https://github.com/SyncfusionExamples/protect-word-documents-c-sharp/tree/master/Allow-only-comments) - Allows adding comments without changing content.
+    -   [Allow only reading](https://github.com/SyncfusionExamples/protect-word-documents-c-sharp/tree/master/Allow-only-reading) - Makes documents view-only to prevent changes.
+    -   [Allow only revisions](https://github.com/SyncfusionExamples/protect-word-documents-c-sharp/tree/master/Allow-only-revisions) - Suggest changes without editing directly.
 
 
 ## Syncfusion&reg; .NET Word Library
