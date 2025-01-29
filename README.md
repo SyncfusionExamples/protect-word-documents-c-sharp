@@ -5,12 +5,12 @@ This repository contains examples that illustrates how to protect Word document 
 ## Key Features
 
 -   [Encrypt Word Document](https://github.com/SyncfusionExamples/protect-word-documents-c-sharp/tree/master/) - Secure documents with a password to prevent unauthorized access.
--   [Decrypt Protected Documents](https://github.com/SyncfusionExamples/protect-word-documents-c-sharp/tree/master/) - Decrypt from encrypted Word document.
+-   [Decrypt Protected Documents](https://github.com/SyncfusionExamples/protect-word-documents-c-sharp/tree/master/) - Unlock encrypted Word documents effortlessly..
 -   **Restrict Editing Options:**
     -   [Allow only form fields](https://github.com/SyncfusionExamples/protect-word-documents-c-sharp/tree/master/Allow-only-form-fields) - Allows users to fill in specific fields only.
     -   [Allow only comments](https://github.com/SyncfusionExamples/protect-word-documents-c-sharp/tree/master/Allow-only-comments) - Allows adding comments without changing content.
-    -   [Allow only reading](https://github.com/SyncfusionExamples/protect-word-documents-c-sharp/tree/master/Allow-only-reading) - Makes documents view-only to prevent changes.
-    -   [Allow only revisions](https://github.com/SyncfusionExamples/protect-word-documents-c-sharp/tree/master/Allow-only-revisions) - Suggest changes without editing directly.
+    -   [Allow only reading](https://github.com/SyncfusionExamples/protect-word-documents-c-sharp/tree/master/Allow-only-reading) - Allow documents to read-only to prevent changes.
+    -   [Allow only revisions](https://github.com/SyncfusionExamples/protect-word-documents-c-sharp/tree/master/Allow-only-revisions) - Allows users to edit while tracking all changes.
 
 
 ## Syncfusion&reg; .NET Word Library
@@ -46,7 +46,7 @@ Supported File Formats
 - **Product page:** [Syncfusion&reg; Word Framework](https://www.syncfusion.com/document-processing/word-framework/net?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples)
 - **Documentation:** [Protect and unprotect Word document using Syncfusion&reg; Word library](https://help.syncfusion.com/document-processing/word/word-library/net/working-with-security)
 - **GitHub Examples:** [Syncfusion&reg; Word library examples](https://github.com/SyncfusionExamples/DocIO-Examples?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples)
-- **Online demo:** [Syncfusion&reg; Word library - Online demos](https://ej2aspnetcore.azurewebsites.net/aspnetcore/word/splitbysection#/material3?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples)
+- **Online demo:** [Syncfusion&reg; Word library - Online demos](https://ej2aspnetcore.azurewebsites.net/aspnetcore/word/salesinvoice#/material3)
 
 ## Support and feedback
 For any other queries, reach our [Syncfusion&reg; support team](https://support.syncfusion.com/?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples) or post the queries through the [community forums](https://www.syncfusion.com/forums?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples).
