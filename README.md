@@ -5,7 +5,7 @@ This repository contains examples that illustrates how to protect Word document 
 ## Key Features
 
 -   [Encrypt Word Document](https://github.com/SyncfusionExamples/protect-word-documents-c-sharp/tree/master/) - Secure documents with a password to prevent unauthorized access.
--   [Decrypt Protected Documents](https://github.com/SyncfusionExamples/protect-word-documents-c-sharp/tree/master/) - Unlock encrypted Word documents effortlessly..
+-   [Decrypt Protected Documents](https://github.com/SyncfusionExamples/protect-word-documents-c-sharp/tree/master/) - Unlock encrypted Word documents effortlessly.
 -   **Restrict Editing Options:**
     -   [Allow only form fields](https://github.com/SyncfusionExamples/protect-word-documents-c-sharp/tree/master/Allow-only-form-fields) - Allows users to fill in specific fields only.
     -   [Allow only comments](https://github.com/SyncfusionExamples/protect-word-documents-c-sharp/tree/master/Allow-only-comments) - Allows adding comments without changing content.
