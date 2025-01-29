@@ -9,13 +9,13 @@ namespace Encrypt_Word_document_with_password
     {
         static void Main(string[] args)
         {
-            //Open the file as Stream.
+            //Open the file as a stream.
             using (FileStream fileStream = new FileStream(Path.GetFullPath(@"Data/Template.docx"), FileMode.Open, FileAccess.ReadWrite))
             {
                 //Load an existing Word document.
                 using (WordDocument document = new WordDocument(fileStream, FormatType.Docx))
                 {
-                    //Encrypts the Word document with a password.           
+                    //Encrypt the Word document with a password.           
                     document.EncryptDocument("password");
                     // Save the Word document.
                     using (FileStream outputStream = new FileStream(Path.GetFullPath(@"../../../Result.docx"), FileMode.Create, FileAccess.ReadWrite))

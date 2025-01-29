@@ -8,13 +8,13 @@ namespace Decrypt_password_protected_document
     {
         static void Main(string[] args)
         {
-            //Open the file as Stream.
+            //Open the file as a stream.
             using (FileStream fileStream = new FileStream(Path.GetFullPath(@"Data/Template.docx"), FileMode.Open, FileAccess.ReadWrite))
             {
                 //Open the encrypted Word document.
                 using (WordDocument document = new WordDocument(fileStream, FormatType.Docx, "syncfusion"))
                 {
-                    //Removes encryption in Word document.            
+                    //Remove encryption from the Word document.             
                     document.RemoveEncryption();
                     // Save the Word document.
                     using (FileStream outputStream = new FileStream(Path.GetFullPath("../../../Result.docx"), FileMode.Create, FileAccess.ReadWrite))
